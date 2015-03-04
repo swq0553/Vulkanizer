@@ -1,0 +1,15 @@
+#===============================================================================
+# Modern OpenGL Wrapper
+#
+# Author: Thibault Schueller <ryp.sqrt@gmail.com>
+#
+# The contents of this file are placed in the public domain. Feel
+# free to make use of it in any way you like.
+#===============================================================================
+
+# This module defines the following variables (on success):
+#   MOGL_FOUND        - if the library was successfully located
+#   MOGL_INCLUDE_DIRS - where to find mogl/mogl.hpp
+
+# Tell the user project where to find our headers and libraries
+set(MOGL_INCLUDE_DIRS "${CMAKE_CURRENT_LIST_DIR}/../../../include")

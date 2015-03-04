@@ -1,28 +1,10 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+!.gitignore
 
-# Precompiled Headers
-*.gch
-*.pch
+#Ryp custom
+*.kdev4*
+*.bak
+.idea
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+#Build files
+build
+html
