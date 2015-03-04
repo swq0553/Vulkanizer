@@ -4,7 +4,7 @@
 # Project related configuration options
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
-PROJECT_NAME           = Vulcanizer
+PROJECT_NAME           = Vulkanizer
 #PROJECT_NUMBER         = (Override by travis-ci)
 PROJECT_BRIEF          = "Thin C++14 header-only layer on top of the Vulkan API"
 PROJECT_LOGO           =

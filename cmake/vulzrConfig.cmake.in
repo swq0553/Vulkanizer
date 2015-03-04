@@ -1,5 +1,5 @@
 #===============================================================================
-# Modern OpenGL Wrapper
+# Vulkanizer
 #
 # Author: Thibault Schueller <ryp.sqrt@gmail.com>
 #
@@ -8,8 +8,8 @@
 #===============================================================================
 
 # This module defines the following variables (on success):
-#   MOGL_FOUND        - if the library was successfully located
-#   MOGL_INCLUDE_DIRS - where to find mogl/mogl.hpp
+#   VULZR_FOUND        - if the library was successfully located
+#   VULZR_INCLUDE_DIRS - where to find vulzr/vulzr.hpp
 
 # Tell the user project where to find our headers and libraries
-set(MOGL_INCLUDE_DIRS "${CMAKE_CURRENT_LIST_DIR}/../../../include")
+set(VULZR_INCLUDE_DIRS "${CMAKE_CURRENT_LIST_DIR}/../../../include")

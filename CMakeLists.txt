@@ -7,7 +7,7 @@ if(CMAKE_BUILD_TYPE MATCHES "^CMAKE_BUILD_TYPE$")
     set_property(CACHE CMAKE_BUILD_TYPE PROPERTY STRINGS "" Release Debug RelWithDebInfo MinSizeRel)
 endif()
 
-project(Vulcanizer)
+project(Vulkanizer)
 
 set(INSTALL_CMAKE_DIR lib${LIB_SUFFIX}/cmake/vulzr CACHE PATH "Installation directory for cmake config files")
 
