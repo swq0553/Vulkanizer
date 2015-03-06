@@ -11,6 +11,7 @@
 #ifndef VULZR_INCLUDED
 #define VULZR_INCLUDED
 
+#include <vulzr/functions.hpp>
 #include <vulzr/version.hpp>
 
 #endif // VULZR_INCLUDED
