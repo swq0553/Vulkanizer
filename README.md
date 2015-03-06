@@ -1,6 +1,6 @@
 #Vulkanizer
 
-Early prototype for wrapping the new Vulkan API
+**Very early** prototype for wrapping the new Vulkan API.
 
 ##MIT LICENSE
 
