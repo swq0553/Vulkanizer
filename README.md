@@ -1,6 +1,6 @@
 #Vulkanizer
 
-**Very early** prototype for wrapping the new Vulkan API.
+This is a **Very early** prototype for wrapping the new Vulkan API with C++14. The code is based on Valve and Khronos slides shown at GDC 2015.
 
 ##MIT LICENSE
 

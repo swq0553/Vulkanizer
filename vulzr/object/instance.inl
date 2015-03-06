@@ -4,15 +4,11 @@
 /// Copyright (c) 2015 Thibault Schueller
 /// This file is distributed under the MIT License
 ///
-/// @file vulzr.hpp
+/// @file instance.inl
 /// @author Thibault Schueller <ryp.sqrt@gmail.com>
 ////////////////////////////////////////////////////////////////////////////////
 
-#ifndef VULZR_INCLUDED
-#define VULZR_INCLUDED
+namespace vulzr
+{
 
-#include <vulzr/functions.hpp>
-#include <vulzr/objects.hpp>
-#include <vulzr/version.hpp>
-
-#endif // VULZR_INCLUDED
+}

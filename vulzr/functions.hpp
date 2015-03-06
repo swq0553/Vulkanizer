@@ -23,7 +23,7 @@ namespace vulzr
         void    BeginCommandBuffer();
         void    CmdDbgMarkerBegin();
         void    CmdPipelineBarrier();
-        void    CmdDbgMarkerEnd();
+        void    CmdPipelineBarrier();
         void    EndCommandBuffer();
         void    CreateFence();
         void    BeginCommandBuffer();
